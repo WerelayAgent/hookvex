@@ -1,0 +1,21 @@
+{
+  "name": "hookvex",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hookvex ($HKVX) - Solana Token-2022 Transfer-Hook Launchpad & Programmable Rule Engine",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "keywords": [
+    "solana",
+    "hookvex",
+    "hkvx",
+    "transfer-hooks",
+    "token-2022",
+    "launchpad",
+    "meme"
+  ],
+  "author": "WerelayAgent",
+  "license": "MIT"
+}
