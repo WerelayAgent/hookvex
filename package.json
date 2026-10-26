@@ -1,0 +1,14 @@
+{
+  "name": "hookvex",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hookvex ($HKVX) — Programmable Token Launchpad on Solana.",
+  "keywords": [
+    "hookvex",
+    "hkvx",
+    "solana",
+    "token2022"
+  ],
+  "author": "Hookvex Community",
+  "license": "MIT"
+}
