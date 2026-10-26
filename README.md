@@ -1,4 +1,4 @@
-# Hookvex ($HKVX) 🪝⚡
+# Hookvex ($HOOKVEX) 🪝⚡
 
 > **Solana tokens with rules built in.** Transfer-hook launchpad on Solana. Every transfer gets hooked.
 
@@ -10,7 +10,7 @@
 
 ## 📖 Overview
 
-**Hookvex** (`$HKVX`) is an advanced programmable token launchpad and execution engine on Solana powered by **Token-2022 Transfer Hooks**.
+**Hookvex** (`$HOOKVEX`) is an advanced programmable token launchpad and execution engine on Solana powered by **Token-2022 Transfer Hooks**.
 
 Instead of relying on off-chain bots, centralized blacklists, or trusting third-party frontends, **Hookvex embeds enforceable rules directly into the token itself**. Solana consensus runs the hook on every single transfer—and any trade or movement that violates your rules never lands on-chain.
 
@@ -19,14 +19,14 @@ Instead of relying on off-chain bots, centralized blacklists, or trusting third-
 - **Fair Launch Shields:** Anti-bundle protection, block-zero sniper traps, sliding sell caps, and rising max-wallet caps.
 - **Token Physics & Mechanics:** Momentum curves, resonance, coupled resonators, market hours, and circuit breakers.
 - **Non-Custodial:** Hookvex never holds private keys. Creators and traders sign every action directly from their wallet.
-- **Deflationary Flywheel:** 1% trading fee on Hookvex bonding curves, with **85% automatically used to buy back and burn $HKVX** on the open market (15% allocated to continuous protocol development).
+- **Deflationary Flywheel:** 1% trading fee on Hookvex bonding curves, with **85% automatically used to buy back and burn $HOOKVEX** on the open market (15% allocated to continuous protocol development).
 
 ---
 
 ## 🪙 Token Information
 
 - **Token Name:** Hookvex
-- **Ticker:** `$HKVX`
+- **Ticker:** `$HOOKVEX`
 - **Network:** Solana (Token-2022 Transfer Hook Extension)
 - **Contract Address (CA):** `live now on pump.fun`
 - **DEX:** Jupiter / Raydium / Meteora / Dexscreener
