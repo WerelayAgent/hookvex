@@ -3,7 +3,7 @@
 > **Solana tokens with rules built in.** Transfer-hook launchpad on Solana. Every transfer gets hooked.
 
 [![Solana](https://img.shields.io/badge/Blockchain-Solana%20Token--2022-blueviolet.svg?style=flat-square)](https://solana.com)
-[![Token CA](https://img.shields.io/badge/CA-C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE-brightgreen.svg?style=flat-square)](https://solscan.io/token/C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE)
+[![Token CA](https://img.shields.io/badge/CA-Live%20Now%20on%20pump.fun-brightgreen.svg?style=flat-square)](https://pump.fun)
 [![Website](https://img.shields.io/badge/Website-hookvex.fun-blue.svg?style=flat-square)](https://hookvex.fun)
 
 ---
@@ -28,7 +28,7 @@ Instead of relying on off-chain bots, centralized blacklists, or trusting third-
 - **Token Name:** Hookvex
 - **Ticker:** `$HKVX`
 - **Network:** Solana (Token-2022 Transfer Hook Extension)
-- **Contract Address (CA):** `C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE`
+- **Contract Address (CA):** `live now on pump.fun`
 - **DEX:** Jupiter / Raydium / Meteora / Dexscreener
 
 ---
